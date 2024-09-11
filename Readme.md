@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Простой проект для изучения makefiles
 ==================================
