@@ -14,6 +14,5 @@ release: hello
 hello: hello.cpp
 	g++ -O2 hello.cpp -o hello -DNDEBUG -Wall
 
-clean:
-	rm -f hello 
+clean: rm -f hello hello-dbg
 
